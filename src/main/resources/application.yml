@@ -1,0 +1,7 @@
+web3j:
+  #Geth Address
+  client-address: http://localhost:8545
+  admin-client: false
+server:
+  #Aka 777
+  port: 7777
